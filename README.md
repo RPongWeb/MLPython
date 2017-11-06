@@ -33,4 +33,4 @@ FIT is a training algorithm that allows us to input our training data into a mod
 Now when we input a new flower , it will be able to determine whether or not it's an Iris flower! 
 
 
-
+Special thanks to Cornell Univeristy for the free information provided on their website : http://machinelearning.cis.cornell.edu/
